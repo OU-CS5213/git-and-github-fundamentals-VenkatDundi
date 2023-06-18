@@ -1,1 +1,3 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/QfxW72RH)
+
+This is an assignment in the course which helps in applying the understanding on version control with Git in Software Engineering. Git hub is a toold which is essential for managing the source code in projects and facilitates collaboration among the team members. It helps throughout the overall development process by helping in tracking changes, reverting and merging the code by multiple individuals in a team. Firstly, we go through the commit command by which we mark and save the specific part of code.
